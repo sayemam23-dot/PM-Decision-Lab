@@ -4,6 +4,12 @@ An interactive project management simulation. Play the Project Manager, make dec
 
 > Educational simulation, not a professional project-management assessment.
 
+<p align="center">
+  <a href="https://pmdecisionsimulator.netlify.app/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_Project-blue?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
+
 ## Features
 - Interactive PM simulation with 4 fictional projects and 12 scenarios
 - Dynamic project metrics with animated changes
