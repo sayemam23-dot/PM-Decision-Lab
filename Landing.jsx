@@ -19,7 +19,7 @@ export default function Landing({ onStart, onResume, canResume, onAbout }) {
       <section className="section"><h2>What you'll face</h2>
         <div className="grid3">{FACE.map(([t, d]) => <div className="card" key={t}><h3>{t}</h3><p className="muted">{d}</p></div>)}</div></section>
       <footer className="footer"><div><strong>PM Decision Lab</strong><div className="muted">An interactive project management simulation.</div></div>
-        <div className="foot-links"><button className="link" onClick={onAbout}>About</button><a href="https://github.com/your-username/pm-decision-lab" target="_blank" rel="noreferrer">GitHub</a></div></footer>
+        <div className="foot-links"><button className="link" onClick={onAbout}>About</button><a href="https://github.com/sayemam23-dot/PM-Decision-Lab" target="_blank" rel="noreferrer">GitHub</a></div></footer>
     </>
   );
 }
